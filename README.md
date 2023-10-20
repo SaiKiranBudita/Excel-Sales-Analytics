@@ -2,7 +2,7 @@
 ## Excel project done in Data Analyst Bootcamp (codebasics.io)
 <b>Sales Report</b>
 
-Project objective:
+Project objective:<br>
 1.Create a customer performance report to identify top-performing customers and areas for improvement.<br>
 2.Conduct a market performance and sales targets comparison to assess progress towards goals and identify any areas where adjustments are needed.<br>
 3.Purpose of sales analytics: Empower businesses to monitor and evaluate their sales activities and performance in order to make better decisions.<br>
@@ -11,7 +11,7 @@ Role of reports: Determine effective customer discounts, facilitate negotiations
 
 <b>Finance Report</b>
 
-Project objective:
+Project objective:<br>
 1.Create profit and loss (P&L) reports by fiscal year, month, and market to evaluate financial performance, support decision-making, and facilitate communication with stakeholders.<br>
 2.Purpose of sales analytics: Evaluate financial performance, support decision-making, and facilitate communication with stakeholders.<br>
 3.Importance of analyzing finance data: Benchmark against industry peers and previous periods to identify areas for improvement. Create budgets and forecasts based on historical data and market trends.<br>
