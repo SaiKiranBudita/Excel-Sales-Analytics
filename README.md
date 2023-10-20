@@ -17,8 +17,7 @@ Role of reports: Determine effective customer discounts, facilitate negotiations
 
 Project objective:<br>
 1.Create profit and loss (P&L) reports by fiscal year, month, and market to evaluate financial performance, support decision-making, and facilitate communication with stakeholders.
-![image](https://github.com/SaiKiranBudita/Excel-Sales-Analytics/assets/101615781/0dc55833-6307-47aa-8f65-d93ae048444c)![image](https://github.com/SaiKiranBudita/Excel-Sales-Analytics/assets/101615781/a76b70e5-7f9f-46b5-b669-f5bec8cff817)![image](https://github.com/SaiKiranBudita/Excel-Sales-Analytics/assets/101615781/8aaa1abf-1521-4f7a-967b-39c0c1b0dde2)
-![image](https://github.com/SaiKiranBudita/Excel-Sales-Analytics/assets/101615781/81b6f65c-533b-44c2-9c6a-8542f6cc74c5)![image](https://github.com/SaiKiranBudita/Excel-Sales-Analytics/assets/101615781/39a229c0-da51-4a4b-98cd-37f4c377eeec)![image](https://github.com/SaiKiranBudita/Excel-Sales-Analytics/assets/101615781/c5de2621-bd8c-49a9-9a97-ac2e87422aca)
+![image](https://github.com/SaiKiranBudita/Excel-Sales-Analytics/assets/101615781/0dc55833-6307-47aa-8f65-d93ae048444c)![image](https://github.com/SaiKiranBudita/Excel-Sales-Analytics/assets/101615781/a76b70e5-7f9f-46b5-b669-f5bec8cff817)![image](https://github.com/SaiKiranBudita/Excel-Sales-Analytics/assets/101615781/81b6f65c-533b-44c2-9c6a-8542f6cc74c5)![image](https://github.com/SaiKiranBudita/Excel-Sales-Analytics/assets/101615781/8aaa1abf-1521-4f7a-967b-39c0c1b0dde2)![image](https://github.com/SaiKiranBudita/Excel-Sales-Analytics/assets/101615781/39a229c0-da51-4a4b-98cd-37f4c377eeec)![image](https://github.com/SaiKiranBudita/Excel-Sales-Analytics/assets/101615781/c5de2621-bd8c-49a9-9a97-ac2e87422aca)
 
 
 
