@@ -19,16 +19,8 @@ Role of reports: Align financial planning with strategic goals and instill confi
 
 <b>Technical & Soft Skills</b>
 
-Technical skills:
-ETL methodology (Extract, Transform, Load)
-Power Query
-DAX
-Data modeling<br>
-Soft skills:
-Understanding of sales and finance reports
-User-centric design
-Optimization
-Planning.<br>
+Technical skills: ETL (Extract, Transform, Load), Power Query, DAX,Data modeling.
+Soft skills: Understanding of sales and finance reports, User-centric design, Optimization, Planning.<br>
 
 <b>Conclusion</b>
 
