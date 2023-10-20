@@ -28,7 +28,7 @@ Soft skills:
 Understanding of sales and finance reports
 User-centric design
 Optimization
-Planning
-Conclusion
+Planning<br>
+<b>Conclusion</b>
 
 This report demonstrates my ability to create and analyze sales and finance reports using a variety of technical and soft skills. I am confident that I can use my skills to help businesses improve their sales performance and financial health.
