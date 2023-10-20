@@ -4,7 +4,7 @@
 
 Project objective:<br>
 1.Create a customer performance report to identify top-performing customers and areas for improvement.<br>
-#![image](https://github.com/SaiKiranBudita/Excel-Sales-Analytics/assets/101615781/31f2addf-374a-4638-8a71-562be90e65ab)
+![image](https://github.com/SaiKiranBudita/Excel-Sales-Analytics/assets/101615781/31f2addf-374a-4638-8a71-562be90e65ab)
 
 2.Conduct a market performance and sales targets comparison to assess progress towards goals and identify any areas where adjustments are needed.<br>
 3.Purpose of sales analytics: Empower businesses to monitor and evaluate their sales activities and performance in order to make better decisions.<br>
