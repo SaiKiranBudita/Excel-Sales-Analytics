@@ -16,7 +16,10 @@ Role of reports: Determine effective customer discounts, facilitate negotiations
 <b>Finance Report</b>
 
 Project objective:<br>
-1.Create profit and loss (P&L) reports by fiscal year, month, and market to evaluate financial performance, support decision-making, and facilitate communication with stakeholders.<br>
+1.Create profit and loss (P&L) reports by fiscal year, month, and market to evaluate financial performance, support decision-making, and facilitate communication with stakeholders.
+![image](https://github.com/SaiKiranBudita/Excel-Sales-Analytics/assets/101615781/0dc55833-6307-47aa-8f65-d93ae048444c)![image](https://github.com/SaiKiranBudita/Excel-Sales-Analytics/assets/101615781/a76b70e5-7f9f-46b5-b669-f5bec8cff817)
+
+<br>
 2.Purpose of sales analytics: Evaluate financial performance, support decision-making, and facilitate communication with stakeholders.<br>
 3.Importance of analyzing finance data: Benchmark against industry peers and previous periods to identify areas for improvement. Create budgets and forecasts based on historical data and market trends.<br>
 Role of reports: Align financial planning with strategic goals and instill confidence in the organization's financial outlook.
